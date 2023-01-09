@@ -1,10 +1,18 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
+
 body {
     font-family: 'Montserrat', sans-serif;
 }
+
 header {
     background-color: #F3E51D;
 }
 
 .logo {
     width: 4em;
+}
+
+.icones {
+    width: 5rem;
+    height: 5rem;
 }
